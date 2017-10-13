@@ -1,0 +1,9 @@
+creando phpmailer con composer 12/10/2017  (a nivel localhost)
+
+c:\Users\Usuario>
+
+c:\Users\Usuario>cd c:\wamp64\www
+
+c:\Users\Usuario>cd phpmail
+
+**se crean los directorios**

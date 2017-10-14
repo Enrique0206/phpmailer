@@ -6,4 +6,6 @@ c:\Users\Usuario>cd c:\wamp64\www
 
 c:\Users\Usuario>cd phpmail
 
+c:\Users\Usuario>phpmail>composer require phpmailer/phpmailer
+
 **se crean los directorios**
